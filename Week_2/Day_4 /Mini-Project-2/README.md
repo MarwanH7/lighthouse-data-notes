@@ -3,9 +3,17 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-(fill in your description and goals here)
+The two main goals of this project are: 
+
+
+*Go through the Extract --> Transform --> Load (ETL) process
+*Comapre different API's (Foursquare,Yelp,Google
 
 ## Process
+
+ Extracted Data (Foursquare,Yelp,Google).
+*Transformed data using pandas to meet project needs and requirements.
+Loaded the data into SQL tables.
 ### (your step 1)
 ### (your step 2)
 
