@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS "FSQ Retaurants" (
+"index" INTEGER,
+  "Name" TEXT,
+  "rating" TEXT,
+  "Hours" TEXT,
+  "Address" TEXT,
+  "Phone_number" TEXT,
+  "website" TEXT
+);
+CREATE INDEX "ix_FSQ Retaurants_index"ON "FSQ Retaurants" ("index");
+CREATE TABLE IF NOT EXISTS "YELP Retaurants" (
+"index" INTEGER,
+  "Name" TEXT,
+  "rating" TEXT,
+  "Address" TEXT,
+  "Phone_number" TEXT,
+  "review_count" TEXT
+);
+CREATE INDEX "ix_YELP Retaurants_index"ON "YELP Retaurants" ("index");
