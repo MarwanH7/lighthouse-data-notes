@@ -50,4 +50,4 @@ The main goal of this mini-project is to build yourself a database of restaurant
 3. save the schema of the SQLite database you made to a text file called `database_schema.txt` located in the `data/` directory:
     - open a terminal, navigate to your `data/` directory
     - run the command `sqlite3 [YOUR DATABASE FILE] .schema > database_schema.txt`, replacing [YOUR DATABASE FILE] with the name of your database, for example:
-    `sqlite3 poi_data.db .schema > database_schema.txt`
+    `sqlite3 poi_data.db .schema > database_schema.txt`..
