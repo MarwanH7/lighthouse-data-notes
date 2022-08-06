@@ -16,7 +16,7 @@ In this project the goal is to go though the Extract,Transform, Load (ETL) proce
 
 ## Results
 
-* Both API'S had amazing coverage, about a varaity POI'S, I mainly focused and filtered for restaurants and retreived details such as :resaurants names, location, ratings, review counts,hours of work  and websites
+* Both API'S had amazing coverage about a varaity POI'S. I mainly focused and filtered for restaurants and retreived details such as: resaurants names, location, ratings, review counts,hours of work  and websites
 * In conclusion I personally found that the foursquare API was simpler to use, and needed less Api requested to aquire the same amounts of data yelp provided.
 
 ## Challenges 
